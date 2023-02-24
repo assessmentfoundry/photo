@@ -1,0 +1,12 @@
+#gradle exclusions
+/.gradle/
+/build/
+#eclipse exclusions
+**/.classpath
+**/.project
+**/.settings
+/bin
+#mvn exclusions
+**/target
+#binary exclusions
+*.jar
